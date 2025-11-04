@@ -24,6 +24,10 @@ export default defineConfig({
       type: "http",
       url: "http://127.0.0.1:8545",
     },
+    // stagenet: {
+    //   type: "http",
+    //   url: "add your Stagenet's RPC URL here",
+    // },
     localhost: {
       type: "http",
       url: "http://127.0.0.1:8545",
