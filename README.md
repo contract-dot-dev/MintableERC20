@@ -1,4 +1,4 @@
-# MintableERC20 Demo Project
+# MintableERC20 Demo
 
 This repo contains a minimal Hardhat project showcasing a simple `MintableERC20` token contract.
 It’s designed as a quick-start example for use with [contract.dev](https://contract.dev) — link it to a Stagenet to automatically import the contract, generating a dedicated Contract Workspace with built-in analytics and tooling.
