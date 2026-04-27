@@ -20,6 +20,6 @@ The steps are straightforward. All you need to do is:
 
 ## Support 
 
-To learn more, check out the [contract.dev docs](https://docs.contract.dev/).
+To learn more, check out the contract.dev [docs](https://docs.contract.dev/).
 
 Reach out to us on [Telegram](https://t.me/+6KRxHjDFW6ViYTk8) if you have any issues.
